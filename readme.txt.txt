@@ -1,2 +1,2 @@
-Hello!
-What's up =)
+Yooo
+I'm learning git
